@@ -1,4 +1,4 @@
-project                  = "accelerator-dev"
+project                  = "accelerator-dev-b6f2"
 project_prefix           = "accelerator"
 region                   = "us-east4"
 environment              = "dev"

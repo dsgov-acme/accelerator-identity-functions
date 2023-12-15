@@ -1,6 +1,6 @@
 terraform {
   backend "gcs" {
-    bucket = "accelerator-tfstate"
+    bucket = "accelerator-0a51-tfstate"
     prefix = "identity-functions/dev"
   }
 }
